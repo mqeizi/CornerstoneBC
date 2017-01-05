@@ -1,4 +1,6 @@
-# CornerstoneBC
+
+
+# CornerstoneBC [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/mqiezi/CornerstoneBC/blob/master/MIT-LICENSE)
 
 Beyond Compare script for Cornerstone
 
